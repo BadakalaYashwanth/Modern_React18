@@ -1,0 +1,92 @@
+/* Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body {
+  height: 100%;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Full screen background */
+.netflix-bg {
+  background-image: url("/images/Netflix-Background.jpg");
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh;
+}
+
+/* Dark overlay */
+.overlay {
+  background: rgba(0, 0, 0, 0.65);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Header */
+.netflix-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 24px 48px;
+}
+
+.netflix-logo {
+  color: red;
+  font-size: 40px;
+  font-weight: bold;
+}
+
+/* Hero section */
+.hero {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  text-align: center;
+  padding: 0 20px;
+}
+
+.hero h1 {
+  font-size: 48px;
+  font-weight: bold;
+  max-width: 800px;
+}
+
+.hero h2 {
+  font-size: 22px;
+  margin: 16px 0;
+}
+
+.hero p {
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+
+/* Email form */
+.hero-form {
+  display: flex;
+  gap: 10px;
+  max-width: 600px;
+  width: 100%;
+}
+
+.hero-form input {
+  flex: 1;
+  padding: 16px;
+  font-size: 16px;
+}
+
+.hero-form button {
+  padding: 16px 24px;
+  font-size: 16px;
+  background-color: #e50914;
+  color: white;
+  border: none;
+  cursor: pointer;
+}

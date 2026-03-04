@@ -1,0 +1,84 @@
+{
+  "products": [
+    {
+      "title": "Apple iPhone 16 (Pink, 256 GB)",
+      "price": 71999,
+      "image": "iphone-pink.png",
+      "rating": {
+        "rate": 4.9,
+        "ratings": 19106,
+        "reviews": 793
+      },
+      "offers": [
+        "Bank Offer10% Off on Supermoney UPI. Max discount of ₹50. Minimum order value of ₹250.T&C",
+        "Bank Offer5% cashback on Flipkart Axis Bank Credit Card upto ₹4,000 per statement quarterT&C",
+        "Bank Offer5% cashback on Flipkart SBI Credit Card upto ₹4,000 per calendar quarterT&C",
+        "Special PriceGet extra ₹27901 off price inclusive of cashback couponT&C"
+      ]
+    },
+    {
+      "title": "Samsung Galaxy S24 (Black, 256 GB)",
+      "price": 68999,
+      "image": "samsung-s24-black.png",
+      "rating": {
+        "rate": 4.7,
+        "ratings": 15432,
+        "reviews": 842
+      },
+      "offers": [
+        "Bank Offer10% instant discount on HDFC Credit CardT&C",
+        "No Cost EMI up to 9 monthsT&C",
+        "Exchange OfferUp to ₹10000 off on old deviceT&C",
+        "Special PriceExtra ₹5000 discount on prepaid ordersT&C"
+      ]
+    },
+    {
+      "title": "OnePlus 12 (Green, 512 GB)",
+      "price": 64999,
+      "image": "oneplus-12-green.png",
+      "rating": {
+        "rate": 4.6,
+        "ratings": 9876,
+        "reviews": 521
+      },
+      "offers": [
+        "Bank Offer10% cashback on SBI Credit CardT&C",
+        "No Cost EMI available for 6 monthsT&C",
+        "Exchange OfferUp to ₹8000 discountT&C",
+        "Special PriceFlat ₹3500 off with couponT&C"
+      ]
+    },
+    {
+      "title": "Google Pixel 9 (Blue, 128 GB)",
+      "price": 59999,
+      "image": "pixel-9-blue.png",
+      "rating": {
+        "rate": 4.8,
+        "ratings": 7432,
+        "reviews": 612
+      },
+      "offers": [
+        "Bank Offer5% cashback on Axis Bank Credit CardT&C",
+        "Instant ₹3000 discount on ICICI EMI transactionsT&C",
+        "No Cost EMI up to 12 monthsT&C",
+        "Special PriceExtra ₹4000 off on prepaid ordersT&C"
+      ]
+    },
+    {
+      "title": "Xiaomi 14 Pro (White, 256 GB)",
+      "price": 54999,
+      "image": "xiaomi-14-pro-white.png",
+      "rating": {
+        "rate": 4.5,
+        "ratings": 11204,
+        "reviews": 934
+      },
+      "offers": [
+        "Bank Offer10% off on Kotak Bank Credit CardT&C",
+        "Exchange OfferUp to ₹8000 off on selected modelsT&C",
+        "No Cost EMI for 6 monthsT&C",
+        "Special PriceFlat ₹2500 discount on app purchaseT&C"
+      ]
+    }
+  ]
+}

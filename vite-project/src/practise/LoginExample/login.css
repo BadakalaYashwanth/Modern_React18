@@ -1,0 +1,22 @@
+
+
+.form-style {
+    width: 300px;
+    padding: 20px;
+    border: 1px solid rgb(249, 249, 249);
+    border-radius: 10px;
+    box-shadow: 2px 2px 6px rgb(126, 125, 125);
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    background-color: blanchedalmond;
+    font-display: block;
+    color: black;
+
+}
+
+.form-style input {
+    background-color: #fff;
+    color: #000;
+    border: 1px solid  #ccc;
+}
